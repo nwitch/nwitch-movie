@@ -1,5 +1,7 @@
 # nwitch-movie
 
+[![Dependency Status](https://gemnasium.com/nwitch/nwitch-movie.svg)](https://gemnasium.com/nwitch/nwitch-movie)
+
 nwitch plugin for looking up movies through the
 [OMDb API](http://www.omdbapi.com/).
 
