@@ -1,6 +1,6 @@
 {
   "name": "nwitch-movie",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "nwitch plugin for looking up movies through the OMDb API",
   "keywords": [
     "nwitch",
