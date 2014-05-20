@@ -1,0 +1,21 @@
+{
+  "name": "nwitch-movie",
+  "version": "0.0.0",
+  "description": "nwitch plugin for looking up movies through the OMDb API",
+  "keywords": [
+    "nwitch",
+    "nwitch-plugin"
+  ],
+  "repository": "nwitch/nwitch-movie",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "dependencies": {
+    "behest": "^1.0.0",
+    "omdb": "^0.1.2"
+  }
+}
