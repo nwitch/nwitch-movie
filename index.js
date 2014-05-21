@@ -28,7 +28,7 @@ function plugin() {
           }
 
           irc.send(destination, movie.title + ' (' + movie.year + ')');
-          irc.send(destination, '| ' + movie.imdb.rating) + '/10';
+          irc.send(destination, '| ' + movie.imdb.rating + '/10');
           irc.send(destination, '| ' + movie.genres.join(', '));
           irc.send(destination, '| http://imdb.com/title/' + movie.imdb.id);
         });
